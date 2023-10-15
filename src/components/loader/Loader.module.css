@@ -3,6 +3,7 @@
 }
 
 @keyframes transformKeyframes {
+    /* + GPU video card */
     100% { transform: scale(0); }
 }
 
