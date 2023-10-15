@@ -1,6 +1,6 @@
 import { useState, useMemo, useCallback } from "react";
-import Color from "./Color";
-import Letter from "./Letter";
+import Color from "./color";
+import Letter from "./letter";
 import randomColor from "randomcolor";
 import randomLetter from "random-letter";
 
